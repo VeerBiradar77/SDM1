@@ -1,0 +1,42 @@
+                            srs document
+           
+                     online project management
+
+
+
+Q2.
+
+Functional requirements
+1. User Registration and Authentication
+Users can register with the system by providing their name, email, and
+password.
+Users can log in to the system using their registered email and password.
+User roles and permissions (admin, project manager, team member) should
+be assigned.
+2. Project Creation and Management
+Project managers can create new projects and provide project details (title,
+description, start date, end date, etc.).
+Projects can be assigned to specific teams or individuals.
+Projects can be categorized based on criteria such as status, priority, or
+department.
+3. Task Assignment and Tracking
+Project managers can create tasks within a project and assign them to team
+members.
+Tasks should have details such as title, description, due date, and priority.
+Team members can update task status (in progress, completed, etc.) and
+provide progress updates.
+Task dependencies and priorities can be defined to manage task sequencing.
+4. Document and File Management
+Users can upload and manage project-related documents, files, and
+attachments.
+Documents can be categorized, tagged, and version-controlled.
+Users can access and download documents based on their project and role
+permissions.
+5. Team Collaboration and Communication
+Users can collaborate within projects through discussion forums, chat, or
+comments.
+Notifications and alerts should be sent to relevant users for task updates,
+mentions, or deadlines.
+Team members can share project-related updates, announcements, and
+milestones.
+

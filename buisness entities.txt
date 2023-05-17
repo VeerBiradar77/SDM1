@@ -1,0 +1,22 @@
+                         buisness entities
+
+
+
+
+1. Introduction
+The Project Management System is a web-based application designed to
+facilitate efficient project planning, execution, and monitoring. It enables teams
+to collaborate, track progress, and manage project-related tasks, resources,
+and timelines. This document outlines the functional requirements for the
+Project Management System.
+
+
+2. Scope
+The Project Management System will provide the following features:
+User registration and authentication.
+Project creation and management.
+Task assignment and tracking.
+Document and file management.
+Team collaboration and communication.
+Gantt chart visualization.
+Reporting and analytics.
